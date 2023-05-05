@@ -114,7 +114,7 @@ export const config = {
     // commands. Instead, they hook themselves up into the test process.
     services: [
         ['chromedriver', {
-            chromedriverCustomPath : 'C:\Users\User\Desktop\DemoSite-javaScript-WDIO\chromeDriver\chromedriver.exe'
+            chromedriverCustomPath : 'C:/Users/maham/OneDrive/Desktop/Projects/DemoSite-javaScript-WDIO/chromeDriver/chromedriver.exe'
         }]
       ],
     
