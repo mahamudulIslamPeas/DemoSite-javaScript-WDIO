@@ -9,3 +9,10 @@ describe('My Login application', () => {
         
     })
 })
+
+
+// npm run wdio
+
+// npx wdio run wdio.conf.js --spec example.e2e.js
+
+// npx wdio run wdio.conf.js --suite LoginUser
